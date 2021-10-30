@@ -7,6 +7,7 @@ import time
 from random import shuffle
 
 # Program
+
 print("[Sanware] Do you have a favourite pet or animal? If so, what is their name?")
 PetName = input("You: ")
 print("[Sanware] What's your favourite TV show or movie?")
