@@ -3,8 +3,6 @@
 # Required library
 
 import random
-import time
-from random import shuffle
 
 # Program
 
